@@ -1,0 +1,74 @@
+[
+    {
+      "name": "بلاي ستيشن",
+      "url": "https://i.ibb.co/zHmZnWx/playstation-5.png",
+      "category": "games",
+      "price": 499.99
+    },
+    {
+      "name": "سامسونغ جالاكسي",
+      "url": "https://i.ibb.co/rFFMDH7/samsung-galaxy.png",
+      "category": "smartphones",
+      "price": 399.99
+    },
+    {
+      "name": "كاميرا كانون",
+      "url": "https://i.ibb.co/mhm1hLq/cannon-eos-camera.png",
+      "category": "cameras",
+      "price": 749.99
+    },
+    {
+      "name": "سوني A7",
+      "url": "https://i.ibb.co/LS9TDLN/sony-a7-camera.png",
+      "category": "cameras",
+      "price": 1999.99
+    },
+    {
+      "name": "تلفزيون إل جي",
+      "url": "https://i.ibb.co/QHgFnHk/lg-tv.png",
+      "category": "televisions",
+      "price": 799.99
+    },
+    {
+      "name": "نينتيندو سويتش",
+      "url": "https://i.ibb.co/L0L9SdG/nintendo-switch.png",
+      "category": "games",
+      "price": 299.99
+    },
+    {
+      "name": "اكس بوكس",
+      "url": "https://i.ibb.co/C8rBVdT/xbox-series-x.png",
+      "category": "games",
+      "price": 499.99
+    },
+    {
+      "name": "تلفزيون سامسونغ",
+      "url": "https://i.ibb.co/Pj1nm4B/samsung-tv.png",
+      "category": "televisions",
+      "price": 1099.99
+    },
+    {
+      "name": "غوغل بكسل",
+      "url": "https://i.ibb.co/5F58zmH/google-pixel.png",
+      "category": "smartphones",
+      "price": 499.99
+    },
+    {
+      "name": "كاميرا سوني",
+      "url": "https://i.ibb.co/5Wy3RZ9/sony-zv1f-camera.png",
+      "category": "cameras",
+      "price": 799.99
+    },
+    {
+      "name": "تلفزيون توشيبا",
+      "url": "https://i.ibb.co/FxM6rXq/toshiba-tv.png",
+      "category": "televisions",
+      "price": 499.99
+    },
+    {
+      "name": "آيفون 14",
+      "url": "https://i.ibb.co/5vc7J6s/iphone-14.png",
+      "category": "smartphones",
+      "price": 999.99
+    }
+  ]
